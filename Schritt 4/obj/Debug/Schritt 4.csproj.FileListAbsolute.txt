@@ -1,0 +1,19 @@
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 4\bin\Debug\Schritt 4.exe.config
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 4\bin\Debug\Schritt 4.exe
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 4\bin\Debug\Schritt 4.pdb
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt 4.csprojAssemblyReference.cache
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt_4.Form1.resources
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt_4.Properties.Resources.resources
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt 4.csproj.GenerateResource.cache
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt 4.exe
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt 4.pdb
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\bin\Debug\Schritt 4.exe.config
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\bin\Debug\Schritt 4.exe
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\bin\Debug\Schritt 4.pdb
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt 4.csproj.AssemblyReference.cache
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt_4.Form1.resources
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt_4.Properties.Resources.resources
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt 4.csproj.GenerateResource.cache
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt 4.csproj.CoreCompileInputs.cache
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt 4.exe
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 4\obj\Debug\Schritt 4.pdb

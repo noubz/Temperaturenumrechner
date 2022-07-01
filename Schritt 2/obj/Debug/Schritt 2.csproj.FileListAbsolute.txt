@@ -1,0 +1,12 @@
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 2\obj\Debug\Schritt 2.csprojAssemblyReference.cache
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 2\bin\Debug\Schritt 2.exe.config
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 2\bin\Debug\Schritt 2.exe
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 2\bin\Debug\Schritt 2.pdb
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 2\obj\Debug\Schritt 2.exe
+C:\Users\Praktikant.ITWS009\Documents\Praktikant\Aufgabe 1\Temperaturenumrechner\Schritt 2\obj\Debug\Schritt 2.pdb
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 2\bin\Debug\Schritt 2.exe.config
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 2\bin\Debug\Schritt 2.exe
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 2\bin\Debug\Schritt 2.pdb
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 2\obj\Debug\Schritt 2.csproj.CoreCompileInputs.cache
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 2\obj\Debug\Schritt 2.exe
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 2\obj\Debug\Schritt 2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 1\bin\Debug\Schritt 1.exe.config
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 1\bin\Debug\Schritt 1.exe
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 1\bin\Debug\Schritt 1.pdb
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 1\obj\Debug\Schritt 1.csproj.AssemblyReference.cache
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 1\obj\Debug\Schritt 1.csproj.CoreCompileInputs.cache
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 1\obj\Debug\Schritt 1.exe
+C:\Users\Niclas\OneDrive\Dokumente\Temp\Temperaturenumrechner\Schritt 1\obj\Debug\Schritt 1.pdb
